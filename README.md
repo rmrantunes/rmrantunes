@@ -5,7 +5,7 @@
 
 - Atualmente, estudo conceitos avançados de desenvolvimento de aplicações utilizando **React.js**, como **Testes / React Testing Library**, **Next.js**, **SSR/SSG**,  **Styled Components / CSS-in-JS**, **Component-Driven Development / Atomic Design**, **GraphQL**... 
 
-- Aos fins de semana, geralmente, meu passatempo é resolver [exercícios](https://github.com/rmrantunes/exercises) de logica de Javascript utilizando Typescript.
+- Aos fins de semana, geralmente, gosto de resolver [exercícios](https://github.com/rmrantunes/exercises) de logica de Javascript utilizando Typescript.
 
 - Além tudo disso, participo da nova turma de React, no [Ignite](https://rocketseat.com.br/ignite), organizado e ministrado pela [Roketseat](https://rocketseat.com.br/).
 

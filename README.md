@@ -3,7 +3,7 @@
 
 -  Sou Rafael Antunes, 20 anos, estou por dentro das tecnologias frontend há cerca de 1 ano. 
 
-- Atualmente, estudo conceitos avançados de desenvolvimento de aplicações utilizando **React.js**, como **Next.js**, **SSR/SSG**, **Styled Components / CSS-in-JS**, **Component-Driven Development / Atomic Design**, **GraphQL**... 
+- Atualmente, estudo conceitos avançados de desenvolvimento de aplicações utilizando **React.js**, como **Testes / React Testing Library**, **Next.js**, **SSR/SSG**,  **Styled Components / CSS-in-JS**, **Component-Driven Development / Atomic Design**, **GraphQL**... 
 
 - Aos fins de semana, geralmente, meu passatempo é resolver [exercícios](https://github.com/rmrantunes/exercises) de logica de Javascript utilizando Typescript.
 

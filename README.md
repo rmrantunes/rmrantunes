@@ -7,7 +7,9 @@
 
 - Aos fins de semana, geralmente, gosto de resolver [exercícios](https://github.com/rmrantunes/exercises) de logica de Javascript utilizando Typescript.
 
-- Além tudo disso, sou alumni de React, no [Ignite](https://rocketseat.com.br/ignite), organizado e ministrado pela [Roketseat](https://rocketseat.com.br/).
+- Sou alumni de React, no [Ignite](https://rocketseat.com.br/ignite), organizado e ministrado pela [Roketseat](https://rocketseat.com.br/).
+
+- Ah, além de tudo isso, estou trabalhando em um projeto que eu estou muito entusiasmado para anunciar, é gigantesco! Mas, por enquanto fica em "OFF".
 
 -  Se deseja entrar em contato comigo, aqui estão algumas formas:
     -  E-mail: rmrantunes.dev@gmail.com 

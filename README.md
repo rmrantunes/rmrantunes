@@ -1,7 +1,7 @@
 ## Esse é o meu portfólio
 #### ...e há outro melhor, além do meu próprio repositório?
 
--  Sou Rafael Antunes, 20 anos, estou por dentro das tecnologias frontend há mais de 1 ano. 
+-  Sou Rafael Antunes, 20 anos, estou por dentro das tecnologias frontend há mais de 1 ano e meio. 
 
 - Atualmente, estudo conceitos avançados de desenvolvimento de aplicações utilizando **React.js**, como **Testes / React Testing Library**, **Next.js**, **SSR/SSG**,  **Styled Components / CSS-in-JS**, **Component-Driven Development / Atomic Design**, **GraphQL**... 
 

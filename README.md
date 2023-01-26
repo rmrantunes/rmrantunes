@@ -3,7 +3,9 @@
 
 -  Sou Rafael Antunes, 21 anos, estou por dentro das tecnologias frontend há cerca de 2 anos. 
 
-- Atualmente, estudo conceitos avançados de desenvolvimento de aplicações utilizando **React.js**, como **Testes / React Testing Library**, **Next.js**, **SSR/SSG**,  **Styled Components / CSS-in-JS**, **Component-Driven Development / Atomic Design**, **GraphQL**... 
+- Fiz parte de diversos projetos quando trabalhava na [Adbat Workfy](https://www.adbat.com.br/). Agora faço parte do time de desenvolvedores da [Construtora Patriani](https://construtorapatriani.com.br/).
+
+- Estudo conceitos avançados de desenvolvimento de aplicações utilizando **React.js**, como **Testes / React Testing Library**, **Next.js**, **SSR/SSG**,  **Styled Components / CSS-in-JS**, **Component-Driven Development / Atomic Design**, **GraphQL**... 
 
 - Aos fins de semana, geralmente, gosto de resolver [exercícios](https://github.com/rmrantunes/exercises) de logica de Javascript utilizando Typescript.
 

@@ -15,7 +15,7 @@
 
 -  Se deseja entrar em contato comigo, aqui estão algumas formas:
     -  E-mail: rmrantunes.dev@gmail.com 
-    -  LinkedIn: https://www.linkedin.com/in/rafael-antunes-4b15401b9/
+    -  LinkedIn: https://www.linkedin.com/in/rmrantunes
 
 
 

@@ -1,7 +1,7 @@
 ## Esse é o meu portfólio
 #### ...e há outro melhor, além do meu próprio repositório?
 
--  Sou Rafael Antunes, 23 anos, estou por dentro das tecnologias frontend há cerca de 4 anos. 
+-  Sou Rafael Antunes, 24 anos, estou por dentro das tecnologias frontend há cerca de 5 anos. 
 
 - Fiz parte de diversos projetos quando trabalhava na [Adbat Workfy](https://www.adbat.com.br/). Agora faço parte do time de desenvolvedores da [Construtora Patriani](https://construtorapatriani.com.br/).
 

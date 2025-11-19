@@ -5,16 +5,11 @@
 
 - Fiz parte de diversos projetos quando trabalhava na [Adbat Workfy](https://www.adbat.com.br/); e também parte do time de desenvolvedores da [Construtora Patriani](https://construtorapatriani.com.br/).
 
-- Estudo conceitos avançados de desenvolvimento de aplicações utilizando **React.js**, como **Testes / React Testing Library**, **Next.js**, **SSR/SSG**,  **Styled Components / CSS-in-JS**, **Component-Driven Development / Atomic Design**, **GraphQL**... 
-
-- Aos fins de semana, geralmente, gosto de resolver [exercícios](https://github.com/rmrantunes/exercises) de logica de Javascript utilizando Typescript.
-
-- Ah, além de tudo isso, estou trabalhando em um projeto que eu estou muito entusiasmado para anunciar, é gigantesco! Mas, por enquanto fica em "OFF".
+- Atualmente estou trabalhando em um projeto que eu estou muito entusiasmado para anunciar, é gigantesco! Mas, por enquanto fica em "OFF".
 
 -  Se deseja entrar em contato comigo, aqui estão algumas formas:
     -  E-mail: rmrantunes.dev@gmail.com 
     -  LinkedIn: https://www.linkedin.com/in/rmrantunes
-
 
 
 <center>

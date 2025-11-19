@@ -3,7 +3,7 @@
 
 -  Sou Rafael Antunes, 24 anos, estou por dentro das tecnologias frontend há cerca de 5 anos. 
 
-- Fiz parte de diversos projetos quando trabalhava na [Adbat Workfy](https://www.adbat.com.br/). Agora faço parte do time de desenvolvedores da [Construtora Patriani](https://construtorapatriani.com.br/).
+- Fiz parte de diversos projetos quando trabalhava na [Adbat Workfy](https://www.adbat.com.br/); e também parte do time de desenvolvedores da [Construtora Patriani](https://construtorapatriani.com.br/).
 
 - Estudo conceitos avançados de desenvolvimento de aplicações utilizando **React.js**, como **Testes / React Testing Library**, **Next.js**, **SSR/SSG**,  **Styled Components / CSS-in-JS**, **Component-Driven Development / Atomic Design**, **GraphQL**... 
 
